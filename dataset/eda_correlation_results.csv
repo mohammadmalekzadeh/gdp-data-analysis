@@ -1,0 +1,5 @@
+Pair,Pearson_r,Pearson_p,Spearman_r,Spearman_p,Interpretation
+GDP_log ~ Population_log,0.8003,0.0,0.7342,0.0,Strong
+GDP_log ~ Share_world_GDP,0.4385,0.0,0.9961,0.0,Moderate
+GDP_per_capita ~ GDP_growth,-0.0016,0.9832,-0.3469,0.0,Weak
+Population_log ~ GDP_growth,-0.0749,0.3162,-0.0053,0.944,Weak

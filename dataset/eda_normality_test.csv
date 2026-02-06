@@ -1,0 +1,6 @@
+index,Statistic,p-value,Normal?
+GDP_log,0.994,0.68,Yes
+Population_log,0.9785,0.0067,No
+GDP_growth,0.477,0.0,No
+GDP_per_capita,0.7284,0.0,No
+Share_world_GDP,0.2062,0.0,No
