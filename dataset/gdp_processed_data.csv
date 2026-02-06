@@ -1,0 +1,182 @@
+Country,GDP Value (log),GDP Abbrev,GDP Growth (%),Population (log),GDP Per Capita,Share of World GDP (%)
+USA,30.9532,Trillion,2.89,19.6546,80706,26.11
+China,30.5099,Trillion,5.25,21.0757,12509,16.76
+Germany,29.1408,Trillion,-0.27,18.2528,53528,4.26
+Japan,29.0672,Trillion,1.68,18.6388,33806,3.96
+India,28.9029,Trillion,8.15,21.0866,2481,3.36
+UK,28.8491,Trillion,0.34,18.045,49224,3.18
+France,28.7468,Trillion,0.94,18.0118,45934,2.87
+Italy,28.4643,Trillion,0.7,17.9015,38672,2.17
+Brazil,28.4074,Trillion,2.91,19.168,10295,2.05
+Canada,28.393,Trillion,1.25,17.4867,54517,2.02
+Russia,28.3348,Trillion,3.6,18.7953,13899,1.9
+Mexico,28.2127,Trillion,3.2,18.681,13790,1.69
+Australia,28.178,Trillion,3.44,17.0908,65330,1.63
+South Korea,28.1691,Trillion,1.36,17.7619,33098,1.61
+Spain,28.1135,Trillion,2.68,17.6849,33814,1.53
+Indonesia,27.9467,Trillion,5.05,19.4545,4876,1.29
+Netherlands,27.7746,Trillion,0.07,16.711,63803,1.09
+Turkey,27.7428,Trillion,5.11,18.2845,12814,1.05
+Saudi Arabia,27.6964,Trillion,-0.76,17.32,32094,1.01
+Switzerland,27.5088,Billion,0.72,15.9982,99761,0.83
+Poland,27.4193,Billion,0.14,17.473,20876,0.76
+Argentina,27.1942,Billion,-1.61,17.6341,14187,0.61
+Belgium,27.1922,Billion,1.25,16.2762,55049,0.61
+Sweden,27.0948,Billion,-0.31,16.1718,55439,0.55
+Ireland,27.0357,Billion,-5.53,15.4635,106106,0.52
+Thailand,26.9674,Billion,1.89,18.088,7182,0.49
+UAE,26.9657,Billion,3.62,16.1803,48311,0.48
+Israel,26.9647,Billion,2.42,16.0408,55488,0.48
+Austria,26.961,Billion,-0.95,16.0271,56042,0.48
+Singapore,26.9407,Billion,1.07,15.5715,86616,0.47
+Norway,26.9081,Billion,0.48,15.5237,87932,0.46
+Bangladesh,26.8041,Billion,5.78,18.9599,2551,0.41
+Philippines,26.8035,Billion,5.55,18.5595,3805,0.41
+Vietnam,26.7864,Billion,5.05,18.4242,4282,0.4
+Denmark,26.7323,Billion,2.5,15.5986,68440,0.38
+Iran,26.7262,Billion,5.04,18.3221,4466,0.38
+Malaysia,26.714,Billion,3.56,17.3745,11379,0.38
+Egypt,26.7047,Billion,3.76,18.5564,3457,0.37
+Hong Kong,26.6656,Billion,3.28,15.8227,51166,0.36
+South Africa,26.6653,Billion,0.7,17.962,6023,0.36
+Nigeria,26.62,Billion,2.86,19.2443,1597,0.34
+Colombia,26.619,Billion,0.61,17.7729,6947,0.34
+Romania,26.5834,Billion,2.4,16.7662,18347,0.33
+Czech,26.5616,Billion,-0.09,16.196,31750,0.32
+Pakistan,26.5461,Billion,-0.04,19.3269,1365,0.32
+Chile,26.539,Billion,0.22,16.794,17068,0.32
+Finland,26.412,Billion,-1.16,15.5385,52762,0.28
+Portugal,26.3901,Billion,2.53,16.1603,27718,0.27
+Peru,26.3128,Billion,-0.55,17.3373,7907,0.25
+Kazakhstan,26.2941,Billion,5.1,16.8276,12919,0.25
+New Zealand,26.2534,Billion,0.73,15.4589,48750,0.24
+Iraq,26.2481,Billion,-2.94,17.6238,5565,0.24
+Algeria,26.2352,Billion,4.1,17.6477,5364,0.23
+Greece,26.2184,Billion,2.33,16.1421,23772,0.23
+Qatar,26.0846,Billion,1.19,14.9071,71500,0.2
+Hungary,26.0817,Billion,-0.91,16.0862,21926,0.2
+Ukraine,25.9093,Billion,5.32,17.446,4737,0.17
+Kuwait,25.8213,Billion,-3.64,15.3922,33832,0.15
+Ethiopia,25.8213,Billion,6.5,18.6729,1272,0.15
+Morocco,25.696,Billion,3.4,17.4455,3829,0.14
+Slovakia,25.6129,Billion,1.38,15.5235,24086,0.13
+Dominican,25.5227,Billion,2.36,16.2431,10718,0.11
+Ecuador,25.5011,Billion,2.36,16.7048,6610,0.11
+Sudan,25.4171,Billion,-20.11,17.7284,2183,0.1
+Oman,25.4129,Billion,1.31,15.4348,21550,0.1
+Kenya,25.4058,Billion,5.56,17.829,1952,0.1
+Guatemala,25.372,Billion,3.53,16.7128,5763,0.1
+Bulgaria,25.3522,Billion,1.89,15.7318,15069,0.1
+Uzbekistan,25.3442,Billion,6.29,17.3893,2850,0.1
+Costa Rica,25.1834,Billion,5.11,15.4458,16942,0.08
+Luxembourg,25.1748,Billion,-1.1,13.4077,128936,0.08
+Angola,25.1639,Billion,1.0,17.4196,2308,0.08
+Croatia,25.1588,Billion,3.3,15.1755,21662,0.08
+Sri Lanka,25.1583,Billion,-2.3,16.9498,3672,0.08
+Panama,25.1459,Billion,7.4,15.3104,18686,0.08
+Serbia,25.1219,Billion,3.85,15.7285,12009,0.08
+Lithuania,25.1027,Billion,0.34,14.8643,27956,0.08
+Tanzania,25.0935,Billion,5.07,18.0145,1187,0.07
+Côte d'Ivoire,25.0911,Billion,6.2,17.2548,2531,0.07
+Uruguay,25.0702,Billion,0.37,15.0358,22798,0.07
+Ghana,25.0589,Billion,2.94,17.3356,2260,0.07
+Azerbaijan,25.0049,Billion,1.12,16.1494,7012,0.07
+Belarus,24.9979,Billion,3.89,16.0255,7883,0.07
+Slovenia,24.9595,Billion,2.11,14.5662,32642,0.07
+Myanmar,24.9243,Billion,0.96,17.807,1233,0.06
+DR Congo,24.9187,Billion,8.56,18.477,628,0.06
+Turkmenistan,24.828,Billion,6.3,15.8122,8233,0.06
+Jordan,24.6545,Billion,2.68,16.2526,4456,0.05
+Cameroon,24.6208,Billion,3.25,17.1609,1737,0.05
+Uganda,24.6104,Billion,5.34,17.7003,1002,0.05
+Tunisia,24.6054,Billion,0.04,16.317,3978,0.05
+Bahrain,24.5536,Billion,2.98,14.2664,29356,0.04
+Macao,24.5476,Billion,75.06,13.4785,64158,0.04
+Bolivia,24.5329,Billion,3.08,16.3206,3686,0.04
+Libya,24.5321,Billion,10.16,15.8042,6173,0.04
+Paraguay,24.4834,Billion,4.71,15.7389,6276,0.04
+Cambodia,24.4689,Billion,4.96,16.6734,2430,0.04
+Latvia,24.4668,Billion,1.71,14.4481,22444,0.04
+Estonia,24.4439,Billion,-3.02,14.1283,30201,0.04
+Nepal,24.4346,Billion,1.95,17.2065,1378,0.04
+Zimbabwe,24.2852,Billion,5.34,16.6092,2156,0.03
+Honduras,24.2613,Billion,3.58,16.1806,3232,0.03
+El Salvador,24.2501,Billion,3.51,15.6576,5391,0.03
+Cyprus,24.2463,Billion,2.61,14.1119,25195,0.03
+Iceland,24.1677,Billion,5.04,12.8676,80827,0.03
+Senegal,24.1523,Billion,4.58,16.7102,1706,0.03
+Georgia,24.1501,Billion,7.83,15.1525,8083,0.03
+Papua New Guinea,24.1485,Billion,3.04,16.1563,2958,0.03
+Zambia,24.0403,Billion,5.37,16.8468,1331,0.03
+Bosnia and Herzegovina,24.038,Billion,2.21,14.974,8639,0.03
+Trinidad and Tobago,24.0328,Billion,1.35,14.2229,18213,0.03
+Armenia,23.9049,Billion,8.3,14.8951,8183,0.02
+Albania,23.8823,Billion,3.94,14.8493,8375,0.02
+Malta,23.8291,Billion,7.5,13.1862,41896,0.02
+Guinea,23.8233,Billion,6.74,16.4831,1541,0.02
+Mozambique,23.7656,Billion,5.44,17.3311,623,0.02
+Mali,23.7516,Billion,4.66,16.9839,869,0.02
+Mongolia,23.7351,Billion,7.42,15.0486,5922,0.02
+Burkina Faso,23.7351,Billion,2.96,16.9521,883,0.02
+Haiti,23.7115,Billion,-1.86,16.2697,1706,0.02
+Benin,23.7027,Billion,6.35,16.4625,1394,0.02
+Jamaica,23.6897,Billion,2.2,14.8592,6840,0.02
+Botswana,23.6883,Billion,2.73,14.7239,7820,0.02
+Gabon,23.6879,Billion,2.45,14.7257,7803,0.02
+Nicaragua,23.6041,Billion,4.57,15.7359,2613,0.02
+State of Palestine,23.5809,Billion,-5.41,15.5036,3221,0.02
+Afghanistan,23.5701,Billion,2.71,17.5401,416,0.02
+Guyana,23.5658,Billion,33.8,13.6248,20765,0.02
+Niger,23.5458,Billion,2.5,17.0797,643,0.02
+Moldova,23.529,Billion,0.78,14.9362,5393,0.02
+Laos,23.486,Billion,3.75,15.8522,2067,0.02
+Madagascar,23.4826,Billion,3.8,17.2558,506,0.02
+North Macedonia,23.481,Billion,2.07,14.4208,8606,0.02
+Congo,23.4525,Billion,1.91,15.6373,2478,0.01
+Brunei,23.4398,Billion,1.41,13.0367,32963,0.01
+Mauritius,23.4073,Billion,6.96,14.0573,11499,0.01
+Bahamas,23.3862,Billion,2.64,12.8978,35897,0.01
+Rwanda,23.3693,Billion,8.24,16.4513,1010,0.01
+Kyrgyzstan,23.3614,Billion,6.15,15.7719,1977,0.01
+Chad,23.2996,Billion,4.12,16.7766,681,0.01
+Malawi,23.2658,Billion,1.89,16.865,602,0.01
+Namibia,23.237,Billion,4.16,14.9017,4168,0.01
+Equatorial Guinea,23.2359,Billion,-5.09,14.4294,6678,0.01
+Tajikistan,23.2132,Billion,8.3,16.1563,1161,0.01
+Mauritania,23.089,Billion,6.51,15.4294,2121,0.01
+Togo,22.9393,Billion,6.41,16.046,986,0.01
+Montenegro,22.7422,Billion,6.34,13.3591,11886,0.01
+Barbados,22.6285,Billion,4.09,12.5509,23804,0.01
+Maldives,22.609,Billion,4.73,13.173,12530,0.01
+Sierra Leone,22.5814,Billion,5.71,15.9509,758,0.01
+Fiji,22.4174,Billion,7.52,13.7366,5889,0.01
+Eswatini,22.2146,Billion,5.01,14.0229,3611,0.0
+Liberia,22.1678,Billion,4.68,15.519,772,0.0
+Andorra,22.0543,Billion,2.58,11.3004,46812,0.0
+Aruba,22.0176,Billion,4.26,11.5893,33802,0.0
+Suriname,21.9631,Billion,2.54,13.3517,5494,0.0
+Belize,21.8439,Billion,1.15,12.9266,7460,0.0
+Burundi,21.6949,Billion,2.7,16.4321,193,0.0
+Central African Republic,21.6615,Billion,0.87,15.455,496,0.0
+Cabo Verde,21.653,Billion,5.48,13.1661,4851,0.0
+Saint Lucia,21.6112,Billion,2.21,12.0967,13555,0.0
+Gambia,21.5971,Billion,4.8,14.808,888,0.0
+Seychelles,21.4847,Billion,3.16,11.7594,16736,0.0
+Lesotho,21.4737,Billion,1.83,14.6534,916,0.0
+Timor-Leste,21.4556,Billion,-18.12,14.1407,1503,0.0
+Guinea-Bissau,21.4403,Billion,5.2,14.5825,951,0.0
+Antigua and Barbuda,21.4328,Billion,3.86,11.4437,21787,0.0
+Solomon Islands,21.2139,Billion,3.08,13.5924,2042,0.0
+Comoros,21.0251,Billion,3.0,13.6534,1590,0.0
+Grenada,20.9984,Billion,3.57,11.6706,11246,0.0
+Vanuatu,20.8422,Billion,2.21,12.6774,3515,0.0
+St. Vincent & Grenadines,20.7871,Billion,6.02,11.5261,10520,0.0
+Saint Kitts & Nevis,20.7773,Billion,2.28,10.7527,22574,0.0
+Samoa,20.6595,Million,8.58,12.2861,4330,0.0
+Sao Tome & Principe,20.3361,Million,0.37,12.3496,2941,0.0
+Dominica,20.2986,Million,4.71,11.1051,9833,0.0
+Micronesia,19.9467,Million,0.78,11.6319,4084,0.0
+Palau,19.4569,Million,1.88,9.7828,15899,0.0
+Kiribati,19.4475,Million,4.12,11.7946,2107,0.0
+Marshall Islands,19.3735,Million,-3.93,10.5669,6678,0.0
+Tuvalu,17.9472,Million,3.85,9.1918,6345,0.0
